@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: bc631c633d9ee9a419a411ebf5de61fb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - collisionSound: {fileID: 8300000, guid: 96f596e7b29b2694d8b750f10a50769d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
